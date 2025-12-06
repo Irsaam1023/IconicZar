@@ -1,7 +1,7 @@
 # IconicZar - A Curated Icon Gallery
 
 <p align="center">
-  <img src="assets/png/Devicon.png" alt="IconicZar Logo" width="150">
+  <img src="https://raw.githubusercontent.com/ZarScape/ZarScape/refs/heads/main/images/ZarScape/logo-with-background-rounded.png" alt="IconicZar Logo" width="150">
 </p>
 
 <p align="center">
