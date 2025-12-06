@@ -27,7 +27,7 @@
 
 ## 🚀 Live Demo
 
-This project is a static web application. To see it in action, simply open the `index.html` file in your web browser.
+This project is a static web application. To see it in action, simply open the [Website](https://zarscape.github.io/IconicZar) file in your web browser.
 
 ## 🛠️ How to Use
 
@@ -35,7 +35,7 @@ No complex setup required!
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/IconicZar.git
+    git clone https://github.com/ZarScape/IconicZar.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -46,20 +46,6 @@ No complex setup required!
 
 That's it! You can now browse, search, and download icons.
 
-## 📁 Project Structure
-
-The repository is structured as follows:
-
-```
-IconicZar/
-├── assets/
-│   ├── png/      # Contains all 462 PNG icons
-│   └── svg/      # Contains all 461 SVG icons
-├── icons.json    # A JSON file listing all icons for the gallery script
-├── index.html    # The main HTML file containing the gallery structure and logic
-├── README.md     # You are here!
-└── .gitattributes
-```
 
 ## 💻 Technologies Used
 
